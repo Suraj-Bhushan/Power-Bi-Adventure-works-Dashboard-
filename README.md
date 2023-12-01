@@ -3,11 +3,15 @@
 Dashboard for a company named “Adventure Works Cycles”. The dashboard provides a comprehensive view of the company’s financial performance and operations. It includes metrics such as total revenue, sales, gross margin, number of orders, customers, and sales representatives. The dashboard also features data visualizations like a pie chart for revenue by category, a bar chart for sales by month, a table for sales by country, and a map for sales distribution. This dashboard serves as a powerful tool for decision-making and strategy planning in the company.
 
  Project Highlights
+
 1.) Data Cleaning using ETL tool
+
 2.) Statistical Analysis
+
 3.) Data Visualization
 
 Key Insights:
+
 1.) Strong Financial Performance: The company has a high total revenue and sales, indicating strong financial performance. The gross margin percentage is also high, suggesting profitability.
 
 2.) Broad Customer Base: The number of orders and customers is substantial, indicating a broad customer base and potentially a wide range of products.
